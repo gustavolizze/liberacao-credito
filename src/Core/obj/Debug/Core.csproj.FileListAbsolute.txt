@@ -1,0 +1,6 @@
+C:\Projetos\liberacao-credito\src\Core\bin\Debug\Core.exe
+C:\Projetos\liberacao-credito\src\Core\bin\Debug\Core.pdb
+C:\Projetos\liberacao-credito\src\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Projetos\liberacao-credito\src\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Projetos\liberacao-credito\src\Core\obj\Debug\Core.exe
+C:\Projetos\liberacao-credito\src\Core\obj\Debug\Core.pdb
